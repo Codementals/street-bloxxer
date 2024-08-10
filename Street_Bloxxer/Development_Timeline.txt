@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-09T14:42:24-05:00
+
+====== Development Timeline ======
+Created Friday 09 August 2024
+
+===== Prototype Build =====
+[ ] Make a standing animation @art <2024-08-10
+[ ] Make player spawn with standing animation @coding
+
+===== Alpha Build =====

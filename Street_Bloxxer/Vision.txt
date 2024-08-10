@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-09T14:07:12-05:00
+
+====== Vision ======
+Created Friday 09 August 2024
+
+My vision for the game is to be a classic Roblox styled recreation of Street Fighter 3: 3rd Strike. Each of the characters in the original game will be recreated into Roblox characters, with movesets and animations very similar to their original counterpart. Each of the stages will be from old, well known roblox games.

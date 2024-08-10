@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-09T17:45:27-05:00
+
+====== Data Model Structure ======
+Created Friday 09 August 2024
+
+Scripts will be placed in their standalone folder, based on the context in which it is used.
+Example:
+(ReplicatedStorage > (Specific Part of Game) > Scripts > (Script Name))
+{{.\pasted_image.png}}

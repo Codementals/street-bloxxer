@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-09T14:29:53-05:00
+
+====== Street Bloxxer ======
+Created Friday 09 August 2024
+
+Street Bloxxer is a traditional 2.5D fighting game meant to be a roblox recreation of the Street Fighter 3 series.
