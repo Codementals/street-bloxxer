@@ -5,8 +5,16 @@ Creation-Date: 2024-08-09T14:42:24-05:00
 ====== Development Timeline ======
 Created Friday 09 August 2024
 
-===== Prototype Build =====
+===== Concept =====
+[ ] Draw render for ODer @art
+[ ] Draw concept for character selection @art
+[ ] Plan out game architecture @coding
+[ ] Read Game Programming Patterns lol
+
+===== Prototype =====
 [ ] Make a standing animation @art <2024-08-10
+[ ] Replace player's avatar with custom character @coding
+[ ] Add dash functionality @coding
 [ ] Make player spawn with standing animation @coding
 
-===== Alpha Build =====
+===== Alpha =====
